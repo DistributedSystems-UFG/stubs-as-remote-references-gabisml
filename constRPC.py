@@ -4,9 +4,10 @@ APPEND   = '3'
 GETVALUE = '4'
 CREATE   = '5'
 STOP     = '6'
-HOSTS    = ''
+
+HOSTS    = '52.91.46.69'  
 PORTS   = 50004
 PORTC1  = 50053
 PORTC2  = 50054
-HOSTC1  = ''
-HOSTC2  = ''
+HOSTC1  = '3.86.101.216'
+HOSTC2  = '18.205.244.184' 
